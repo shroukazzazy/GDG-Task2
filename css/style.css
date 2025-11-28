@@ -1,0 +1,163 @@
+
+body{
+   margin: 0;
+   padding: 0;
+}
+
+.top-background{
+    background-image: url("/images/bg-header-desktop.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+
+.logo1{
+    text-align: center;
+    padding-top: 100px;
+}
+
+#first-header{
+    text-align: center;
+    color: #323232;
+}
+
+.p-default{
+    color: grey;
+    text-align: center;
+}
+
+.child-header12{
+    text-align: center;
+}
+
+.buttons{
+    display: inline-block;
+    text-align: center;
+}
+
+.button{
+    float: left;
+    margin-left: 10px; 
+    
+}
+
+
+.button button {
+    padding: 10px;
+    width: 175px;
+    border-radius: 25px;
+    border: none;
+    color: aliceblue;
+}
+
+
+#b1{
+    background-color: #24bba8;
+}
+
+#b2{
+    background-color: #5e78ff;
+}
+
+#header2{
+    text-align: center;
+    color:  #323232;
+}
+
+
+.clear{
+    clear:both
+}
+
+#photo2{
+    text-align: center;
+}
+
+.p3{
+    color: grey;
+}
+
+.header{
+    color: #323232;
+    text-align: center;
+}
+
+.child{
+    width: 30%;
+    float: left;
+    margin-left: 10px; 
+    margin-right:10px;
+    
+}
+
+.child2{
+    width: 18%;
+    float: left;
+    margin-left: 10px;
+    margin-right: 10px;
+
+}
+
+.parent{
+    text-align: center;
+}
+
+.second-sec2-child{
+    width: 45%;
+    float: left;
+    margin-right: 10%;
+}
+
+#right-sec{
+    padding-top: 30px;
+    margin-right: 0;
+}
+
+.p-color{
+    color: grey;
+}
+
+footer {
+    background: #d7d8da;
+    padding: 30px 50px;
+}
+
+.footer-child {
+    float: left;
+}
+
+#foot1 {
+    width: 20%;
+}
+
+#foot2 {
+    width: 60%;
+}
+
+#foot2 p {
+    margin: 5px 10px;
+}
+
+#foot3 {
+    width: 20%;
+    text-align: right;
+}
+
+.social {
+    display: inline-block;
+    margin-left: 15px;
+}
+
+a{
+    text-decoration: none;
+    color: grey;
+}
+
+td{
+    padding-right: 20px;
+    padding-bottom: 10px;
+}
+
+.c-logo img{
+    width: 60px;
+}
